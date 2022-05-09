@@ -1,9 +1,9 @@
 package com.kh.animal;
 
 public class Cat {
-	public void cry() {
 		
-		private String name; //master에서 추가
+	private String name; //master에서 추가
+	public void cry() {
 		
 		System.out.println("야옹~");
 	}
